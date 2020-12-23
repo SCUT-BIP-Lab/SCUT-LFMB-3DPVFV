@@ -26,10 +26,10 @@ We have made part of the dataset available for download in the repo in order to 
 
 
 While reporting results using the __SCUT LFMB-3DPVFV Dataset__, please cite the following article:    
-@inproceedings{Hongbin2021fv,  
+@inproceedings{,  
   title={ Endowing rotation invariance for 3D finger shape and vein verification },  
   author={ Hongbin Xu, Weili Yang, Qiuxia Wu and WenXiong Kang },  
-  booktitle={ Frontiers of Computer Science },  
+  booktitle={  },  
   year={2021}   
 }  
 
